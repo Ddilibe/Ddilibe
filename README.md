@@ -1,4 +1,5 @@
-[![MasterHead](https://media4.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)]()]
+[![MasterHead](https://media4.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)]()
+
 <h1 align="center">Hi 👋, I'm Dilibe</h1>
 <h3 align="center">An Enthusiastic Software Developer</h3>
 
