@@ -17,9 +17,9 @@
 
 - 🌈 I'm working on my path to be a **Machine Learning Scientist**
 
-- 📝 I regularly write articles on [https://medium.com/@dilibe](https://medium.com/@dilibe)
+- 📝 I regularly write articles on [Meduim](https://medium.com/@dilibe)
 
-- 💬 Ask me about **Flask, MYSQL and CSS3**
+- 💬 Ask me about **O Notation, Data Structures and algorithms**
 
 - 📫 How to reach me **franklinfidelugwuowo@gmail.com**
 
