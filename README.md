@@ -10,19 +10,12 @@
 <p align="left"> <a href="https://twitter.com/therealdilibe" target="blank"><img src="https://img.shields.io/twitter/follow/therealdilibe?logo=twitter&style=for-the-badge" alt="therealdilibe" /></a> </p>
 
 - 🔭 I’m currently working on **Chess Engine**
-
 - 🌱 I’m currently learning **Panda3d and Ursina**
-
 - 👯 I’m looking to collaborate on **Any software project**
-
 - 🌈 I'm working on my path to be a **Machine Learning Scientist**
-
 - 📝 I regularly write articles on [Meduim](https://medium.com/@dilibe)
-
-- 💬 Ask me about **O Notation, Data Structures and algorithms**
-
+- 💬 Ask me about **Big-O Notation, Data Structures and algorithms**
 - 📫 How to reach me **franklinfidelugwuowo@gmail.com**
-
 - ⚡ Fun fact **People have problem pronouncing my name**
 
 ### Blogs posts
