@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealdilibe" target="blank"><img src="https://img.shields.io/twitter/follow/therealdilibe?logo=twitter&style=for-the-badge" alt="therealdilibe" /></a> </p>
 
-- 🔭 I’m currently working on **Chess Engine**
+- 🔭 I’m currently working on **Dune**
 - 🌱 I’m currently learning **Panda3d and Ursina**
 - 👯 I’m looking to collaborate on **Any software project**
 - 🌈 I'm working on my path to be a **Machine Learning Scientist**
@@ -20,6 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [** Why Python? **](https://medium.com/@dilibe/why-python-6c2698711a5a)
+- [**What Occurs When You Enter An Address Into Your Browser's Address Bar**](https://medium.com/@dilibe/what-occurs-when-you-enter-https-www-google-com-into-your-browser-869e4e56629d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
