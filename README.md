@@ -20,7 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [** Why Python? **](https://medium.com/@dilibe/why-python-6c2698711a5a)
+- [**Why Python?**](https://medium.com/@dilibe/why-python-6c2698711a5a)
 - [**What Occurs When You Enter An Address Into Your Browser's Address Bar**](https://medium.com/@dilibe/what-occurs-when-you-enter-https-www-google-com-into-your-browser-869e4e56629d)
 <!-- BLOG-POST-LIST:END -->
 
