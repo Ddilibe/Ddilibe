@@ -21,6 +21,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [**Why Python?**](https://medium.com/@dilibe/why-python-6c2698711a5a)
+- [**The Driving Force Behind Techs Explosive Growth: Open Source**](https://medium.com/@dilibe/the-driving-force-behind-techs-explosive-growth-open-source-effa0fae1126)
 - [**What Occurs When You Enter An Address Into Your Browser's Address Bar**](https://medium.com/@dilibe/what-occurs-when-you-enter-https-www-google-com-into-your-browser-869e4e56629d)
 <!-- BLOG-POST-LIST:END -->
 
