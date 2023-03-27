@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/therealdilibe" target="blank"><img src="https://img.shields.io/twitter/follow/therealdilibe?logo=twitter&style=for-the-badge" alt="therealdilibe" /></a> </p>
 
 - 🔭 I’m currently working on **Chariot API**
-- 🌱 I’m currently learning **Panda3d and Ursina**
+- 🌱 I’m currently learning **Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Any software project**
 - 🌈 I'm working on my path to be a **Machine Learning Scientist**
 - 📝 I regularly write articles on [Meduim](https://medium.com/@dilibe)
