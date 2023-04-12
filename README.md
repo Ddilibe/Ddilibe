@@ -22,6 +22,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [**The Driving Force Behind Techs Explosive Growth: Open Source**](https://medium.com/@dilibe/the-driving-force-behind-techs-explosive-growth-open-source-effa0fae1126)
 - [**What Occurs When You Enter An Address Into Your Browser's Address Bar**](https://medium.com/@dilibe/what-occurs-when-you-enter-https-www-google-com-into-your-browser-869e4e56629d)
+- [**Google Chrome User Guide For Mobile**](https://medium.com/@dilibe/google-chrome-user-guide-for-mobile-47dfe5a2407)
 - [**Why Python?**](https://medium.com/@dilibe/why-python-6c2698711a5a)
 - [**Is Learning Programming a Challenging Subject?**](https://medium.com/@dilibe/is-programming-for-the-weak-2d38b566c1ba)
 <!-- BLOG-POST-LIST:END -->
