@@ -16,7 +16,7 @@
 - 📝 I regularly write articles on [Meduim](https://medium.com/@dilibe)
 - 💬 Ask me about **Big-O Notation, Data Structures and algorithms**
 - 📫 How to reach me **franklinfidelugwuowo@gmail.com**
-- ⚡ Fun fact **People have problem pronouncing my name**
+- ⚡ Fun fact **Komodo dragons reproduce both sexually and parthenogenetically (Without a mate).**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
