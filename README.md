@@ -10,17 +10,17 @@
 <p> <a href="https://twitter.com/therealdilibe" target="blank"><img src="https://img.shields.io/twitter/follow/therealdilibe?logo=twitter&style=for-the-badge" alt="therealdilibe" /></a> </p>
 
 - 🔭 I’m currently working on being a better developer
-- 👯 I’m looking to collaborate on **Any software project**
 - 📝 I regularly write articles on [Meduim](https://medium.com/@dilibe)
 - 📫 How to reach me **franklinfidelugwuowo@gmail.com**
+<!-- 👯 I’m looking to collaborate on **Any software project** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [**The Driving Force Behind Techs Explosive Growth: Open Source**](https://medium.com/@dilibe/the-driving-force-behind-techs-explosive-growth-open-source-effa0fae1126)
 - [**What Occurs When You Enter An Address Into Your Browser's Address Bar**](https://medium.com/@dilibe/what-occurs-when-you-enter-https-www-google-com-into-your-browser-869e4e56629d)
 - [**Google Chrome User Guide For Mobile**](https://medium.com/@dilibe/google-chrome-user-guide-for-mobile-47dfe5a2407)
-<!-- [**Why Python?**](https://medium.com/@dilibe/why-python-6c2698711a5a) -->
 - [**Is Learning Programming a Challenging Subject?**](https://medium.com/@dilibe/is-programming-for-the-weak-2d38b566c1ba)
+<!-- [**Why Python?**](https://medium.com/@dilibe/why-python-6c2698711a5a) -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
