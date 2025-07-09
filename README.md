@@ -6,6 +6,8 @@
 <!--<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddilibe&label=Profile%20views&color=0e75b6&style=flat" alt="ddilibe" /> </p>
+[![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME)
+
 
 <p> <a href="https://twitter.com/therealdilibe" target="blank"><img src="https://img.shields.io/twitter/follow/therealdilibe?logo=twitter&style=for-the-badge" alt="therealdilibe" /></a> </p>
 
