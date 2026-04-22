@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
 
 # Dilibe Franklin
-### Software Engineer · Systems Researcher · Open Source Contributor
+### Software Engineer · Systems Researcher 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ddilibe&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/ddilibe)
 [![Twitter Follow](https://img.shields.io/twitter/follow/therealdilibe?style=flat-square&logo=twitter&color=6366f1&labelColor=0f0c29)](https://twitter.com/therealdilibe)
